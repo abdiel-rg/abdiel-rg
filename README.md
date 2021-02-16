@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img href="https://www.linkedin.com/in/abdielrodriguez" src="https://img.shields.io/badge/-Connect%20with%20Me-blue?logo=linkedin&style=flat">
+<a href="https://www.linkedin.com/in/abdielrodriguez">
+  <img  src="https://img.shields.io/badge/-Connect%20with%20Me-blue?logo=linkedin&style=flat">
+</a>
 
 <!--
 **abdiel-rg/abdiel-rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
