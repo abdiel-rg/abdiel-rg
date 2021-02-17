@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/abdielrodriguez" target="_blank">
-  <img  src="https://img.shields.io/badge/-Connect%20with%20Me-blue?logo=linkedin&style=social">
+  <img  src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=blue&labelColor=white">
 </a>
 
 <!--
